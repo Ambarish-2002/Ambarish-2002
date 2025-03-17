@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | AI & Full-Stack Developer | Cloud Enthusiast  
 
-I'm a **Master’s student in Computer Science @ USC, passionate about building scalable, AI-powered applications and high-performance full-stack solutions.
+I'm a **Master’s student in Computer Science @ USC**, passionate about building scalable, AI-powered applications and high-performance full-stack solutions.
 
 🔹 **Ex-Software Engineer Intern** @ Loop Health  
 🔹 Skilled in AI, Full-Stack Development, Cloud Computing & DevOps  
