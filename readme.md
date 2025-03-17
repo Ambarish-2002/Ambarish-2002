@@ -53,7 +53,6 @@ I'm a **Master’s student in Computer Science @ USC** with a **4.00/4.00 GPA**,
 ## 📬 Let's Connect!  
 
 📌 [LinkedIn](http://www.linkedin.com/in/ambarishkshirsagar)  
-🌐 [Portfolio](https://porfolio-snowy-seven.vercel.app/)  
-📂 [GitHub](https://github.com/Ambarish-2002)  
+🌐 [Portfolio](https://porfolio-snowy-seven.vercel.app/)
 
 💡 **Let’s build something amazing together! 🚀**
